@@ -4,6 +4,13 @@
 Roles Within the Community 
 ##########################
 
+Often, various roles are colloquially referred to in project documentation, in
+project discussions, or in communication channels. Here we define what each
+role is, and how individuals who are active within the project may identify
+their roles. These roles are not necessarily formalized (though the contributor
+list is), but these definitions may be useful to ensure members of the project
+have a consistent convention for referring to work within the project. 
+
 Contributors/Developers
 -----------------------
 
