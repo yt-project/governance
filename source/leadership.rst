@@ -22,7 +22,7 @@ contributions to the project while also rescinding their write access to the
 project. 
 
 Upon the initial creation of yt membership status, all
-developers that had contributed at least 50 changesets were be granted
+developers that had contributed at least 50 changesets were granted
 membership. The `Project Members page <https://yt-project.org/members.html>`_ 
 gives a description of the requirements
 for membership and provides a list of all members and the year in which
@@ -46,21 +46,20 @@ self-nominate to become leaders of newly proposed subprojects.
 
 The initial project/subproject teams are:
 
-**within the organization**
+.. admonition:: within the organization
 
-* yt-project infrastructure (including website and yt hub)
-* analysis modules (one lead/deputy for each analysis module)
-* unyt
+   * yt-project infrastructure (including website and yt hub)
+   * analysis modules (one lead/deputy for each analysis module)
+   * unyt
 
-**within the yt core package**
+.. admonition:: within the yt core package
 
-* domain contexts (general domain infrastructure)
-* yt testing (answer testing, unit testing, and CI)
-* frontends (one lead who understands generic frontend infrastructure, 
-  deputy for each specific frontend)
-* visualization
-* documentation (narrative docs and examples)
-* triage
+   * domain contexts (general domain infrastructure)
+   * yt testing (answer testing, unit testing, and CI)
+   * frontends (one lead who understands generic frontend infrastructure, 
+     deputy for each specific frontend)
+   * visualization
+   * documentation (narrative docs and examples)
 
 Groups Within the yt Project
 ----------------------------
@@ -122,12 +121,13 @@ yt-exec@googlegroups.com.
 Steering Committee
 ------------------
 
-Members are eligible to serve on the yt project steering committee. The
+Members are eligible to serve on the yt project steering committee (also
+sometimes referred to as the executive committee). The
 steering committe shall meet quarterly or more often as needed to discuss
 project-related business. Members may join the steering committee by attending
 one of the team meetings and self-nominating. Once nominated, a nominee's entry
 to the steering committee will be voted on by members of the steering committee
-by a vote ratio exceeding 3/5. One person on the steering
+by a vote ratio equal or exceeding to 3/5. One person on the steering
 committee shall act as the coordinator, in charge of making sure the team
 meetings happen. All developers are welcome to participate in team meetings.
 

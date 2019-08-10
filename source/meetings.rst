@@ -4,8 +4,7 @@
 Project Meetings 
 ##################
 
-All meetings associated with the yt project (with the exception of the steering
-committee) will be announced publicly to the
+All meetings associated with the yt project will be announced publicly to the
 community through communication channels, including slack, the yt-dev and yt-users 
 mailing lists. Meeting notes will be subsequently posted and announced in the
 aforementioned channels and in the `project records 
@@ -26,7 +25,10 @@ video chat to encourage remote participation, and times should be chosen to
 accomodate international attendees. The meetings invite will be public, and any
 interested developer or user is welcome to attend. When necessary, steering
 committee meetings may need to adjourn to a closed session for sensitive
-discussions. 
+discussions. The steering committee email will not be public to ensure that
+sensitivie discussions may be held on that list. However, all non-sensitive
+items will be reported and documented at subsequent public steering 
+committee meetings. 
 
 Maintainer Coworking Meetings
 -----------------------------
@@ -45,7 +47,7 @@ Finally, new contributors to the project are especially encouraged to attend.
 Team Meetings
 -------------
 
-As needed, the teams outlined in the above team structure can meet to discuss
-maintenance and feature development for areas within the yt project. These
+As needed, the teams outlined in the package/subpackage groups can meet to discuss
+maintenance and feature development for focus areas within the yt project. These
 teams will announce their meetings publicly and make them accessible to members
 of the community.
