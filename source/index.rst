@@ -8,7 +8,7 @@ yt project governance
 
 The mission of the yt project is to create tools to visualize, analyze, and
 explore scientific data for the natural sciences. The core package of the yt
-project is `yt <https://yt-project.org/>`_, but our `organization
+project is `yt <https://github.com/yt-project/yt>`_, but our `organization
 <https://github.com/yt-project>`_ includes a number of packages that lie within
 this theme. 
 
