@@ -30,7 +30,7 @@ Minor Documentation Changes
 
 Minor Documentation changes, such as typo fixes, or addition / correction of a
 sentence: Requires +1 by a project member, no -1 by a project member (lazy
-consensus), happens on the issue or pull request page. Project members are
+consensus), happens on the pull request page. Project members are
 expected to give “reasonable time” to others to give their opinion on the pull
 request if they’re not confident others would agree.
 
