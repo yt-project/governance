@@ -29,38 +29,6 @@ for membership and provides a list of all members and the year in which
 membership was granted. Members have write access to all official yt
 repositories and can, therefore, accept and merge pull requests.
 
-Subproject Teams
-----------------
-
-To help foster a network of maintainer mentorship and to make maintenance of
-the yt project more sustainable, we have opted for a leader/deputy model for
-areas within the yt project that may have some thematic maintenance experts.
-The subproject leader is the primary point of contact for maintenance of that
-subproject, and may help onboard and mentor new maintainers of the subproject,
-who are the deputies. Deputies may self-nominate to become deputies. Being a
-lead or deputy on a project does not limit maintenance in other aspects of the
-project, we are merely aiming for some distributed responsibility of
-maintenance efforts across the community. We invite members of the community to
-self-nominate to fill empty roles of leaders or deputies of subprojects, or to
-self-nominate to become leaders of newly proposed subprojects. 
-
-The initial project/subproject teams are:
-
-.. admonition:: within the organization
-
-   * yt-project infrastructure (including website and yt hub)
-   * analysis modules (one lead/deputy for each analysis module)
-   * unyt
-
-.. admonition:: within the yt core package
-
-   * domain contexts (general domain infrastructure)
-   * yt testing (answer testing, unit testing, and CI)
-   * frontends (one lead who understands generic frontend infrastructure, 
-     deputy for each specific frontend)
-   * visualization
-   * documentation (narrative docs and examples)
-
 Groups Within the yt Project
 ----------------------------
 
@@ -70,7 +38,7 @@ contributors, reviewers and maintainers of the project. Each color-coded group
 encompasses many members of the community, but hopefully will help to direct
 and distribute project member energy.
 
-**Red Group** (includes executive committee, and all subproject leaders) –
+**Red Group** (includes executive committee, any defined leadership roles) –
 Members of this group spend a large part of their time organizing the
 yt-project from a high level. They are expected to coordinate their actions
 with other red members so that the project presents a coherent position towards
@@ -84,7 +52,7 @@ the next monthly team meeting. Red group members are expected to also perform
 duties of blue group members while facilitating and helping the blue group to
 grow.
 
-**Blue Group** (includes all subproject deputies and yt project members) – This
+**Blue Group** (includes all yt project members) – This
 is where the journey of a new yt project team member starts. Blue group members
 spend a large part of your time facilitating contributions from others to the
 project (e.g. reviewing work, answering questions, maintaining project
