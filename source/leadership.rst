@@ -117,8 +117,18 @@ member must be associated with each leadership role defined below. Members that
 wish to roll off of a leadership role may do so by announcing at a team
 meeting, and a new member will self-nominate to fill the position. If
 multiple members self-nominate, then members of the steering committee will
-vote to instate the new leader. Members that are in a defined leadership role
-are not necessarily steering committee members, but are red group members.  
+vote to instate the new leader. 
+
+As the project matures, a new leadership position
+may present itself based on a member taking on a specific role within the
+project. A member may present this new leadership position in the governance
+documentation repository as an issue or bring it up in a yt project team
+meeting, where members of the project will decide whether to add it to these
+defined roles. 
+
+Members that are in a defined leadership role
+are not necessarily steering committee members, but are considered 
+red group members. 
 
 **Mentorship Shepherd** -- The mentorship shepherd helps to grow yellow group 
 members to blue group members. The mentorship shepherd will help yellow members
