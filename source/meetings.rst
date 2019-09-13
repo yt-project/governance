@@ -44,10 +44,3 @@ particularly encouraged to attend to aid and facilitate
 discussion about the pull request.
 Finally, new contributors to the project are especially encouraged to attend. 
 
-Team Meetings
--------------
-
-As needed, the teams outlined in the package/subpackage groups can meet to discuss
-maintenance and feature development for focus areas within the yt project. These
-teams will announce their meetings publicly and make them accessible to members
-of the community.
