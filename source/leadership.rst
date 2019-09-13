@@ -106,3 +106,37 @@ by a vote ratio equal or exceeding to 3/5. One person on the steering
 committee shall act as the coordinator, in charge of making sure the team
 meetings happen. All developers are welcome to participate in team meetings.
 
+Defined Leadership Roles
+------------------------
+
+Within the yt project, there are a few positions that are defined so that the
+project can maintain continuity as members shift in the amount of
+responsibility they wish to take on. While project members may take on some
+responsibilities associated with these roles as they wish, at least one project
+member must be associated with each leadership role defined below. Members that
+wish to roll off of a leadership role may do so by announcing at a team
+meeting, and a new member will self-nominate to fill the position. If
+multiple members self-nominate, then members of the steering committee will
+vote to instate the new leader. Members that are in a defined leadership role
+are not necessarily steering committee members, but are red group members.  
+
+**Mentorship Shepherd** -- The mentorship shepherd helps to grow yellow group 
+members to blue group members. The mentorship shepherd will help yellow members
+find bugs and issues that they may wish to approach in the future, and, if
+necessaary, contact a blue or red team member to assist the yellow member. 
+
+**Triage Leader** -- The triage leader is responsible for ensuring that triage
+meetings get scheduled and facilitaates member participation in the triage
+meetings. The triage leader is expected to schedule and publicly announce
+triage meetings on the mailing list(s), the project slack, and 
+help new attendees understand the triage process. The triage leader will also
+tag and contact relevant knowledge experts to resolve issues or review pull
+requests, when relevant. 
+
+**The Timekeeper** -- The timekeeper helps to keep things running in the yt
+project in all ways time. This involves sending out polls to determine members'
+availability for meetings, scheduling those meetings, and running or ensuring a
+member is running a meeting. The timekeeper will announce all public meetings
+on project mailing lists, in the project slack, and, when relevant, on the
+project social media channels.  
+
