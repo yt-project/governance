@@ -96,6 +96,13 @@ volunteering for tasks which a red member is expected to perform. After a while
 of doing so the group will ask if you want to become a red member and, if you
 agree, recognise you as such at a monthly team meeting.
 
+**Yellow Group** - Yellow group members are new contributors to the yt-project.
+Yellow group members do not have commit access to the yt project yet, but may
+have submitted a bugfix or documentation improvement and would like to
+contribute more. Yellow group members do not have high-level project
+responsibility, but may start to seek out involvement in the project by
+attending triage meetings. 
+
 **Green Group** (can be any person, any time, self-nominated only)-- This group
 applies to members of the community whose life situation has changed so that
 they prefer to (temporarily) not take on the rights and responsibilities of
