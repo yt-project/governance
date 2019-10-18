@@ -38,17 +38,17 @@ contributors, reviewers and maintainers of the project. Each color-coded group
 encompasses many members of the community, but hopefully will help to direct
 and distribute project member energy.
 
-**Red Group** (includes executive committee, any defined leadership roles) –
+**Leadership Group** (includes executive committee, any defined leadership roles) –
 Members of this group spend a large part of their time organizing the
 yt-project from a high level. They are expected to coordinate their actions
 with other red members so that the project presents a coherent position towards
 the outside. They are expected to prepare and attend the monthly team calls and
-executive committee meetings. We expect red members to teach and grow other
+executive committee meetings. We expect leadership members to teach and grow other
 members so that they can pass their organizational responsibilities on to them.
 This encourages us to increase diversity, reduce burn-out and allow group
 members to shift their focus in reaction to changing life circumstances. If a
 red member chooses to change focus, that change of focus will be announced at
-the next monthly team meeting. Red group members are expected to also perform
+the next monthly team meeting. Leadership group members are expected to also perform
 duties of blue group members while facilitating and helping the blue group to
 grow.
 
@@ -64,17 +64,18 @@ volunteering for tasks which a red member is expected to perform. After a while
 of doing so the group will ask if you want to become a red member and, if you
 agree, recognise you as such at a monthly team meeting.
 
-**Yellow Group** - Yellow group members are new contributors to the yt-project.
-Yellow group members do not have commit access to the yt project yet, but may
+**Wellspring Group** - The wellspring group members are new contributors to the yt-project.
+Wellspring members do not have commit access to the yt project yet, but may
 have submitted a bugfix or documentation improvement and would like to
-contribute more. Yellow group members do not have high-level project
+contribute more. Wellspring members do not have high-level project
 responsibility, but may start to seek out involvement in the project by
-attending triage meetings. 
+attending triage meetings. Wellspring group members will be offered triage rights to
+the project on github in their merged pull request. 
 
-**Green Group** (can be any person, any time, self-nominated only)-- This group
+**Sabbatical Group** (can be any person, any time, self-nominated only)-- This group
 applies to members of the community whose life situation has changed so that
 they prefer to (temporarily) not take on the rights and responsibilities of
-being an active member. Membership to the green group is invoked by
+being an active member. Membership to the sabbatical group is invoked by
 self-nomination. They can return to active membership by resuming their
 community activities. Their return will be announced at the next team meeting
 or via the developers mailing list.
