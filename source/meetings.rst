@@ -38,7 +38,8 @@ of pending maintainence of the project. This may include triaging new issues,
 reviewing new PRs, or submitting bugfixes together. These meetings will attempt
 to address all unaddressed maintenance issues, and any outstanding tasks will
 be discussed and mentioned publicly as a comment on the pull request. Any
-developer, reviewer, maintainer, or user is welcome to attend this meeting.
+developer, reviewer, maintainer, user, contributor, potential contributor, or
+interested party is welcome to attend this meeting.
 Developers who have open pull requests they would like to see reviewed are
 particularly encouraged to attend to aid and facilitate 
 discussion about the pull request.
