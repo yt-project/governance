@@ -51,6 +51,5 @@ Maintainers help users by answering questions on the users mailing list or in
 the yt project slack channel. Maintainers also help developers sketch out
 sustainable ways of implementing new features. Maintainers might also
 periodically go through open issues and submit bugfixes or improve
-documentation as needed to keep the project running smoothly. Often maintainers
-will be yt project members (and have commit rights to the repository), but this
-is not a hard rule nor is it required. 
+documentation as needed to keep the project running smoothly. Maintainers
+are generally yt project members (and have commit rights to the repository). 
