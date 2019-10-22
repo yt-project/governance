@@ -1,8 +1,7 @@
 .. _meetings:
 
-##################
 Project Meetings 
-##################
+################
 
 All meetings associated with the yt project will be announced publicly to the
 community through communication channels, including slack, the yt-dev and yt-users 
@@ -19,21 +18,21 @@ Steering Committee Meetings
 ---------------------------
 
 Public meetings, optimally including all members of the steering committee,
-should happen at least once a quarter. These meetings are to encourage frank
-and open discussion about the future of the project. Meetings will happen over
+happen at least once a quarter. These meetings are to encourage frank
+and open discussion about the state of the project. Meetings will happen over
 video chat to encourage remote participation, and times should be chosen to
 accomodate international attendees. The meetings invite will be public, and any
 interested developer or user is welcome to attend. When necessary, steering
 committee meetings may need to adjourn to a closed session for sensitive
 discussions. The steering committee email will not be public to ensure that
-sensitivie discussions may be held on that list. However, all non-sensitive
+sensitive discussions may be held on that list. However, all non-sensitive
 items will be reported and documented at subsequent public steering 
 committee meetings. 
 
 Maintainer Coworking Meetings
 -----------------------------
 
-Twice monthly, or as required, video chats should be held to ensure timely review
+Twice monthly, or as required, video chats will be held to ensure timely review
 of pending maintainence of the project. This may include triaging new issues,
 reviewing new PRs, or submitting bugfixes together. These meetings will attempt
 to address all unaddressed maintenance issues, and any outstanding tasks will
