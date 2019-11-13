@@ -29,6 +29,18 @@ for membership and provides a list of all members and the year in which
 membership was granted. Members have write access to all official yt
 repositories and can, therefore, accept and merge pull requests.
 
+.. important::
+   We require that all members have two factor authentication (2FA)
+   enabled on their github account to gain and/or maintain their project
+   membership status. While we recognize that this may present a technical
+   barrier to some contributors, the added security to the project is
+   substantive. To set up 2FA on github, you may consult the `Github
+   documentation
+   <https://help.github.com/en/github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa>`_
+   or you can reach out for help in any of our 
+   communication channels. 
+
+
 Groups Within the yt Project
 ----------------------------
 
