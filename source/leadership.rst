@@ -123,6 +123,16 @@ by a vote ratio equal or exceeding to 3/5. One person on the steering
 committee shall act as the coordinator, in charge of making sure the team
 meetings happen. All developers are welcome to participate in team meetings.
 
+Current Steering Committee Members
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+| Nathan Goldbaum
+| Madicken Munk
+| Britton Smith
+| Stephanie Tonnesen
+| Matthew Turk
+| John ZuHone
+
 Defined Leadership Roles
 ------------------------
 
@@ -165,5 +175,12 @@ project in all ways time. This involves sending out polls to determine members'
 availability for meetings, scheduling those meetings, and running or ensuring a
 member is running a meeting. The timekeeper will announce all public meetings
 on project mailing lists, in the project slack, and, when relevant, on the
-project social media channels.  
+project social media channels.
+
+Current Leadership Members
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+| **Mentorship Shepherd** -- Stephanie Tonnesen
+| **Triage Leader** -- Matthew Turk
+| **The Timekeeper** -- Britton Smith
 
