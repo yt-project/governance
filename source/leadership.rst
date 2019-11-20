@@ -1,8 +1,8 @@
 .. _leadership:
 
-#############
-Project Roles 
-#############
+######################
+Project-Specific Roles 
+######################
 
 yt-project Members
 ------------------
@@ -175,7 +175,7 @@ project in all ways time. This involves sending out polls to determine members'
 availability for meetings, scheduling those meetings, and running or ensuring a
 member is running a meeting. The timekeeper will announce all public meetings
 on project mailing lists, in the project slack, and, when relevant, on the
-project social media channels.
+project social media channels. 
 
 Current Leadership Members
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
