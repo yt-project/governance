@@ -45,8 +45,8 @@ Groups Within the yt Project
 ----------------------------
 
 The goal of the groups within the yt project is to help focus member energy so
-that the yt project can grow, nurture, and develop a healthy group of
-contributors, reviewers and maintainers of the project. Each color-coded group
+that the yt project can grow, nurture, and develop a healthy pool of
+contributors, reviewers and maintainers of the project. Each group
 encompasses many members of the community, but hopefully will help to direct
 and distribute project member energy.
 
