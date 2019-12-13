@@ -50,12 +50,12 @@ contributors, reviewers and maintainers of the project. Each group
 encompasses many members of the community, but hopefully will help to direct
 and distribute project member energy.
 
-**Fertilizer Group** (includes executive committee, any defined leadership roles) –
+**Fertilizer Group** (includes steering committee, any defined leadership roles) –
 Members of this group spend a large part of their time organizing the
 yt-project from a high level. They are expected to coordinate their actions
 with other fertilizer members so that the project presents a coherent position towards
 the outside. They are expected to prepare and attend the monthly team calls and
-executive committee meetings. We expect fertilizer members to teach and grow other
+steering committee meetings. We expect fertilizer members to teach and grow other
 members so that they can pass their organizational responsibilities on to them.
 This encourages us to increase diversity, reduce burn-out and allow group
 members to shift their focus in reaction to changing life circumstances. If a
@@ -101,7 +101,7 @@ of the community at any level that have a prolonged leave of member duties from
 the yt project. We welcome participation in the community for any length of
 time, and this is a way to retire from the project. A project member may become
 emeritus by self-nomination or by not interacting in a membership capacity on
-the yt project for over 2 years. After this time, a member of the executive
+the yt project for over 2 years. After this time, a member of the steering
 committee will contact an inactive member and see if they wish to remain active
 or transition to an emeritus role. 
 
@@ -113,8 +113,7 @@ yt-exec@googlegroups.com.
 Steering Committee
 ------------------
 
-Members are eligible to serve on the yt project steering committee (also
-sometimes referred to as the executive committee). The
+Members are eligible to serve on the yt project steering committee. The
 steering committe shall meet quarterly or more often as needed to discuss
 project-related business. Members may join the steering committee by attending
 one of the team meetings and self-nominating. Once nominated, a nominee's entry
