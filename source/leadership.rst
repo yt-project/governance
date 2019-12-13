@@ -68,7 +68,7 @@ grow.
 is where the journey of a new yt project team member starts. This group is the largest 
 within the project and includes all project members and leadership group. 
 Arboretum group members
-spend a large part of your time facilitating contributions from others to the
+spend a large part of their time facilitating contributions from others to the
 project (e.g. reviewing work, answering questions, maintaining project
 infrastructure, doing triage of new issues). We expect arboretum members to teach
 and grow contributors that can become arboretum members. This encourages diversity
@@ -90,7 +90,7 @@ the project on github in their merged pull request.
 **The Fallow Fields** (can be any person, any time, self-nominated only)-- This group
 applies to members of the community whose life situation has changed so that
 they prefer to (temporarily) not take on the rights and responsibilities of
-being an active member. They may require some time off from the projec to
+being an active member. They may require some time off from the project to
 reenergize and contribute in a later season. Membership to the fallow fields is invoked by
 self-nomination. They can return to active membership by resuming their
 community activities. Their return will be announced at the next team meeting
@@ -163,7 +163,7 @@ find bugs and issues that they may wish to approach in the future, and, if
 necessaary, contact a arboretum or fertilizer team member to assist the greenhouse member. 
 
 **Triage Leader** -- The triage leader is responsible for ensuring that triage
-meetings get scheduled and facilitaates member participation in the triage
+meetings get scheduled and facilitates member participation in the triage
 meetings. The triage leader is expected to schedule and publicly announce
 triage meetings on the mailing list(s), the project slack, and 
 help new attendees understand the triage process. The triage leader will also
@@ -171,7 +171,7 @@ tag and contact relevant knowledge experts to resolve issues or review pull
 requests, when relevant. 
 
 **The Timekeeper** -- The timekeeper helps to keep things running in the yt
-project in all ways time. This involves sending out polls to determine members'
+project in all ways temporal. This involves sending out polls to determine members'
 availability for meetings, scheduling those meetings, and running or ensuring a
 member is running a meeting. The timekeeper will announce all public meetings
 on project mailing lists, in the project slack, and, when relevant, on the
@@ -183,4 +183,3 @@ Current Leadership Members
 | **Mentorship Shepherd** -- Stephanie Tonnesen
 | **Triage Leader** -- Matthew Turk
 | **The Timekeeper** -- Britton Smith
-

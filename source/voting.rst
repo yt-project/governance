@@ -17,13 +17,13 @@ be decided upon. This process is summarized below.
 
 .. _decision-making:
 
-The Decision-Making Process
-----------------------------
+The Decision Making Process
+---------------------------
 
 #. The group has a discussion about the change and tries to find a resolution
    with no objections among project members. 
 
-#. If no concensus can be found in the community, or if a community member
+#. If no consensus can be found in the community, or if a community member
    requests it, then the community will have
    a vote in relevant channels (the mailing list, the YTEP, or both). The
    vote(s) will conclude two weeks after they have been called, and require a
@@ -68,7 +68,7 @@ sentence require an accepting pull request review
 by a project member, no rejecting reviews by a project member (lazy consensus). 
 Project members are expected to give “reasonable time” 
 to others to give their opinion on the pull
-request if they’re not confident others would agree. E-mails to the development
+request if they’re not confident others would agree. E-mails to the developer
 mailing list are not required for minor documentation changes. 
 
 .. _code-change-process:
@@ -95,13 +95,13 @@ requirements for merging as outlined in the first sentence of this section.
 
 .. note:: 
    While adding a new supporting frontend is generally a substantive contribution, 
-   it does not require a YTEP and falls under this category. 
+   it does not require a YTEP. 
 
 Changes to the API Principles and Changes to Dependencies or Supported Versions
 -------------------------------------------------------------------------------
 
 Changes to the API principles and changes to dependencies or supported versions
-happen via a Enhancement proposals (YTEPs) and follows the decision-making
+happen via enhancement proposals (YTEPs) and follows the decision making
 process outlined in :ref:`decision-making`. Discussions regarding these changes
 will occur in both the mailing list and the YTEP, and votes may be cast in
 either. 
@@ -113,7 +113,7 @@ either.
    depencency fall under the category of :ref:`code-change-process`.
 
 Changes to the Project Governance 
----------------------------------------
+---------------------------------
 
 Changes to the project governance model use the same decision process outlined
 in :ref:`decision-making`. These changes are high enough level to imact the
@@ -151,4 +151,3 @@ sent to the steering committee for a final vote. The vote made by the steering
 committee must be equal or greater than 3/5. Revoking membership will result in a
 loss of commit rights to yt project repositories and removal of membership from
 project pages.
-
