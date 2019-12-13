@@ -127,6 +127,7 @@ Current Steering Committee Members
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 | Nathan Goldbaum
+| Cameron Hummels
 | Madicken Munk
 | Britton Smith
 | Stephanie Tonnesen
