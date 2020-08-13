@@ -30,7 +30,7 @@ through the following procedure:
 * The pull request is announced in public channels available to the community and 
   must be discussed at the next steering committee meeting.
 * The alternative model is accepted by more than half of the active members 
-  of that repository and at least two executive committee members.
+  of that repository and at least two steering committee members.
 
 Unless specifically stated otherwise this governance document and topics within
 will apply to all repositories within the organization.
