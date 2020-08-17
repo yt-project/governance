@@ -60,12 +60,16 @@ This is what we hereafter may refer to as “the decision making process”.
 Decisions (in addition to adding project members and Steering Committee
 membership) are made according to the following rules:
 
-Minor Documentation Changes
----------------------------
+Minor Documentation Changes and Small Bugfixes
+----------------------------------------------
 
 Minor Documentation changes, such as typo fixes, or addition / correction of a
 sentence require an accepting pull request review 
 by a project member, no rejecting reviews by a project member (lazy consensus). 
+Small bugfixes that change a few lines of code and restore or fix broken API
+may also be merged with a single accepting pull request review by a project
+member. Note that major bugfixes that include refactoring and larger changes to
+the codebase will fall under the next category listed on this page. 
 Project members are expected to give “reasonable time” 
 to others to give their opinion on the pull
 request if they’re not confident others would agree. E-mails to the developer
