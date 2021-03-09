@@ -57,6 +57,47 @@ This is what we hereafter may refer to as “the decision making process”.
    the solution that the project member feels is more workable. Project members
    are expected to use veto votes and rejecting reviews sparingly. 
 
+yt Project Enhancement Proposals (YTEPs)
+----------------------------------------
+
+For particular features or code changes, the project has a separate process
+outside of the issue and PR model to allow for community discussion on
+important software changes. These are called yt enhancement proposals, or
+YTEPs. YTEPs are meant to be used for large-scale design decisions that are
+meant to be discussed before substantive development begins on them. This
+allows for the community to weigh in on implementation, rather than one or a
+few individuals. A YTEP may be opened by any community member or may be
+requested by a project member in a PR review if the change is substantive
+enough. 
+
+
+For a YTEP to be merged in the ytep repository the following requirements
+must be met: 
+
+* The YTEP must be announced in all relevant community channels (the yt-dev
+  mailing list, the yt project slack workspace, etc.)
+  
+* The YTEP must be reviewed by a minimum of three yt project members. 
+
+* All conversations in the YTEP raised by reviewers must be resolved. 
+
+* The YTEP must be open for at least two weeks after it is announced to the
+  community. 
+
+* After all conversations are resolved, the YTEP must remain open for at least
+  one more week to allow for responding feedback. 
+
+
+A YTEP **must** be merged before a PR implementing the change is merged into
+the project repository. Generally the project also recommends that YTEPs go
+through a thorough discussion period prior to implementation to allow for
+community input in the design process. 
+
+.. note:: 
+   The YTEP repository for the yt project is located at
+   https://github.com/yt-project/ytep . You can see a rendered version on
+   readthedocs at https://ytep.readthedocs.io/en/master/. 
+
 Decisions (in addition to adding project members and Steering Committee
 membership) are made according to the following rules:
 
