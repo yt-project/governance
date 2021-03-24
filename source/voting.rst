@@ -77,7 +77,11 @@ must be met:
 * The YTEP must be announced in all relevant community channels (the yt-dev
   mailing list, the yt project slack workspace, etc.)
   
-* The YTEP must be reviewed by a minimum of three yt project members. 
+* The YTEP must be reviewed and approved by a minimum of two yt project members. 
+
+* If a YTEP author does not get the necessary engagement for a YTEP to be
+  merged, the YTEP proposal can be raised to the steering committee for a
+  decision. 
 
 * All conversations in the YTEP raised by reviewers must be resolved. 
 
@@ -96,7 +100,7 @@ community input in the design process.
 .. note:: 
    The YTEP repository for the yt project is located at
    https://github.com/yt-project/ytep . You can see a rendered version on
-   readthedocs at https://ytep.readthedocs.io/en/master/. 
+   readthedocs at https://ytep.readthedocs.io/. 
 
 Decisions (in addition to adding project members and Steering Committee
 membership) are made according to the following rules:
