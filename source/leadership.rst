@@ -125,7 +125,6 @@ meetings happen. All developers are welcome to participate in team meetings.
 Current Steering Committee Members
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-| Nathan Goldbaum
 | Cameron Hummels
 | Madicken Munk
 | Britton Smith
